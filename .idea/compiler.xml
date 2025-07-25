@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="email-api" />
         <module name="pedido-api" />
-        <module name="cambio-service" />
       </profile>
     </annotationProcessing>
   </component>
