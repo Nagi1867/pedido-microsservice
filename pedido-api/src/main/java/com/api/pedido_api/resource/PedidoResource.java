@@ -2,8 +2,8 @@ package com.api.pedido_api.resource;
 
 import com.api.pedido_api.model.Pedido;
 import com.api.pedido_api.services.PedidoService;
-import org.hibernate.cfg.Environment;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
